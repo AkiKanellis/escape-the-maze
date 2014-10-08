@@ -6,4 +6,5 @@ This is a project designed to showcase an AI agent using different path-finding 
 Execution
 =============
 
-Download the `Release` folder and double click the `maze.exe` file
+  1. Download the Release folder.
+  2. Double-click map.exe
