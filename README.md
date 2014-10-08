@@ -1,7 +1,7 @@
 Maze AI Agent
 =============
 
-This is a project designed to showcase an AI agent using different path-finding methods in order to find a valid path in a maze-like environment.
+This is a project designed to showcase an AI agent using different path-finding methods in order to find a valid path in a maze-like environment along with their measured performance.
 
 **Path-finding methods:** 
   1. Depth First Search
